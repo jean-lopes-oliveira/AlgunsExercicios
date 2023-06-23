@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601064896 source:c:\users\acer\documents\lista de revisão\duplamenteencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

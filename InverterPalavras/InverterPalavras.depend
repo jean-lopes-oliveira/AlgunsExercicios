@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600010985 source:c:\users\acer\documents\lista de revisão\inverterpalavras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
